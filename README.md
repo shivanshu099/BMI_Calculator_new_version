@@ -1,4 +1,4 @@
-## YOUTUBE_VIDEO_DOWNLOADER_IN_DJANGO
+## BMI calculator
 
 
 # How to use 
