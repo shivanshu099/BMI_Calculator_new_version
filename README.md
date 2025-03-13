@@ -7,6 +7,5 @@
 * command => python manage.py runserver
 
 ## ----------------------------------------- ##
-![App Screenshot](https://github.com/shivanshu099/YOUTUBE_VIDEO_DOWNLOADER_IN_DJANGO/blob/main/Screenshot%20(254).png)
+![App Screenshot](https://github.com/shivanshu099/BMI_Calculator_new_version/blob/main/Screenshot%20(236).png)
 
-![App Screenshot](https://github.com/shivanshu099/YOUTUBE_VIDEO_DOWNLOADER_IN_DJANGO/blob/main/Screenshot%20(255).png)
